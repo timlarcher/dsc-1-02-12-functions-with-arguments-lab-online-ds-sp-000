@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.448"><testcase classname="" file="pytests/test_index.py" name="pytests.test_index" time="0"><error message="collection failure">pytests/test_index.py:6: in &lt;module&gt;
-    import ipynb.fs.full.index
-index.ipynb:225: in &lt;module&gt;
-    }
-index.ipynb:221: in median_review_count
-    },
-E   TypeError: list indices must be integers or slices, not float</error></testcase></testsuite>
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="8" time="0.321"><testcase classname="pytests.test_index" file="pytests/test_index.py" line="10" name="test_conda_environment_activated" time="0.0013751983642578125"></testcase><testcase classname="pytests.test_index" file="pytests/test_index.py" line="13" name="test_restaurant_name_func" time="0.0005764961242675781"></testcase><testcase classname="pytests.test_index" file="pytests/test_index.py" line="18" name="test_restaurant_rating_func" time="0.0005691051483154297"></testcase><testcase classname="pytests.test_index" file="pytests/test_index.py" line="23" name="test_is_better_func" time="0.0006461143493652344"></testcase><testcase classname="pytests.test_index" file="pytests/test_index.py" line="29" name="test_is_cheaper_func" time="0.0005602836608886719"></testcase><testcase classname="pytests.test_index" file="pytests/test_index.py" line="35" name="test_high_rating_func" time="0.0005657672882080078"></testcase><testcase classname="pytests.test_index" file="pytests/test_index.py" line="41" name="test_mean_review_count_func" time="0.00052642822265625"></testcase><testcase classname="pytests.test_index" file="pytests/test_index.py" line="45" name="test_mediam_review_count_func" time="0.000629425048828125"><system-out>[350, 604, 1200, 1369, 1588, 2455]
+0
+3
+</system-out></testcase></testsuite>
